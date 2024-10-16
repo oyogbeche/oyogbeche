@@ -10,4 +10,4 @@ I'm a DevOps Engineer, AWS Solutions Architect, I'm passionate about cloud compu
 - 💡 I'm currently studying at AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering)
 - 😊 I'm open to internships and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://resume.oyameogbeche.cloud) and contact me by emailing mailtooyogbeche@gmail.com.
+- 📫 You can [view my resume](https://resume.oyameogbeche.cloud) and contact me by emailing oyogbeche@gmail.com.
