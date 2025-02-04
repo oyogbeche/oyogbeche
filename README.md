@@ -8,5 +8,5 @@ I'm a DevOps Engineer, AWS Solutions Architect, I'm passionate about cloud compu
 
 - 😊 Pronouns: He/him
 - 💡 I'm currently studying at AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering)
-- 💼 Job interests: DevOps Engineer, Solutions Architect.
+- 💼 Job interests: DevOps Engineer, Cloud Engineer, Solutions Architect.
 - 📫 You can [view my resume](https://resume.oyameogbeche.cloud) and contact me by [email](mailto:oyogbeche@gmail.com)
